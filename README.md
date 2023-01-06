@@ -12,7 +12,7 @@ tests before run and fail before writing the code and then re-run the test and e
 - Ensure that python is installed on your machine 
 - clone this repo into your machine
 - In the terminal, go to the directory of the cloned repo
-- type __python -m unittest [test_name]
+- type __python -m unittest [test_name]__
 
 Test name will be either __test_circle__ or __test_employee__ to this the __circle__ and __employee__ codes respectively
 
